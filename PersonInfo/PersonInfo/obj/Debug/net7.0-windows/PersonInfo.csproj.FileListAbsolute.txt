@@ -1,0 +1,16 @@
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\bin\Debug\net7.0-windows\PersonInfo.exe
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\bin\Debug\net7.0-windows\PersonInfo.deps.json
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\bin\Debug\net7.0-windows\PersonInfo.runtimeconfig.json
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\bin\Debug\net7.0-windows\PersonInfo.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\bin\Debug\net7.0-windows\PersonInfo.pdb
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.Form1.resources
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.csproj.GenerateResource.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.AssemblyInfo.cs
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\refint\PersonInfo.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.pdb
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\PersonInfo.genruntimeconfig.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\PersonInfo\PersonInfo\obj\Debug\net7.0-windows\ref\PersonInfo.dll
