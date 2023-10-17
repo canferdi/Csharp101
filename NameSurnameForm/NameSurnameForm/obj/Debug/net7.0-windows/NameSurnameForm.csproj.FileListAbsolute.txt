@@ -1,0 +1,16 @@
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\bin\Debug\net7.0-windows\NameSurnameForm.exe
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\bin\Debug\net7.0-windows\NameSurnameForm.deps.json
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\bin\Debug\net7.0-windows\NameSurnameForm.runtimeconfig.json
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\bin\Debug\net7.0-windows\NameSurnameForm.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\bin\Debug\net7.0-windows\NameSurnameForm.pdb
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.Form1.resources
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.csproj.GenerateResource.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.AssemblyInfoInputs.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.AssemblyInfo.cs
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.csproj.CoreCompileInputs.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\refint\NameSurnameForm.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.pdb
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\NameSurnameForm.genruntimeconfig.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\NameSurnameForm\NameSurnameForm\obj\Debug\net7.0-windows\ref\NameSurnameForm.dll
