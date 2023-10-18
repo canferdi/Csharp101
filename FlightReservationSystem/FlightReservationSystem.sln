@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightReservationSystem", "FlightReservationSystem\FlightReservationSystem.csproj", "{7A6332CD-48A7-48D6-A62B-36C3D8D907AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6332CD-48A7-48D6-A62B-36C3D8D907AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6332CD-48A7-48D6-A62B-36C3D8D907AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6332CD-48A7-48D6-A62B-36C3D8D907AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6332CD-48A7-48D6-A62B-36C3D8D907AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D490EB39-08A1-42F4-8902-FF84BB7E23B6}
+	EndGlobalSection
+EndGlobal
