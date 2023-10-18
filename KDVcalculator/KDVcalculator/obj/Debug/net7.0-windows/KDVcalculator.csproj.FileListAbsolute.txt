@@ -1,0 +1,17 @@
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\bin\Debug\net7.0-windows\KDVcalculator.exe
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\bin\Debug\net7.0-windows\KDVcalculator.deps.json
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\bin\Debug\net7.0-windows\KDVcalculator.runtimeconfig.json
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\bin\Debug\net7.0-windows\KDVcalculator.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\bin\Debug\net7.0-windows\KDVcalculator.pdb
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.Form1.resources
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.csproj.GenerateResource.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.AssemblyInfoInputs.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.AssemblyInfo.cs
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.csproj.CoreCompileInputs.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\refint\KDVcalculator.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.pdb
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.genruntimeconfig.cache
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\ref\KDVcalculator.dll
+C:\Users\fcan5\OneDrive\Belgeler\C#Projects\KDVcalculator\KDVcalculator\obj\Debug\net7.0-windows\KDVcalculator.Properties.Resources.resources
